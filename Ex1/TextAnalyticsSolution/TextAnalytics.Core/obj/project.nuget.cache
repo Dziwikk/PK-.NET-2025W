@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2b/74jc1dE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Core\\TextAnalytics.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0-rc.2.25502.107\\microsoft.extensions.dependencyinjection.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-rc.2.25502.107\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

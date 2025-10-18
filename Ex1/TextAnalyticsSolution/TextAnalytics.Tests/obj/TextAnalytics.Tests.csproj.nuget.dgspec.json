@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Tests\\TextAnalytics.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Core\\TextAnalytics.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Core\\TextAnalytics.Core.csproj",
+        "projectName": "TextAnalytics.Core",
+        "projectPath": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Core\\TextAnalytics.Core.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0-rc.2.25502.107, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Services\\TextAnalytics.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Services\\TextAnalytics.Services.csproj",
+        "projectName": "TextAnalytics.Services",
+        "projectPath": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Services\\TextAnalytics.Services.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0-rc.2.25502.107, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Tests\\TextAnalytics.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Tests\\TextAnalytics.Tests.csproj",
+        "projectName": "TextAnalytics.Tests",
+        "projectPath": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Tests\\TextAnalytics.Tests.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Core\\TextAnalytics.Core.csproj": {
+                "projectPath": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Core\\TextAnalytics.Core.csproj"
+              },
+              "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Services\\TextAnalytics.Services.csproj": {
+                "projectPath": "C:\\Users\\micha\\RiderProjects\\PK-.NET-2025W\\Ex1\\TextAnalyticsSolution\\TextAnalytics.Services\\TextAnalytics.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0-rc.2.25502.107, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

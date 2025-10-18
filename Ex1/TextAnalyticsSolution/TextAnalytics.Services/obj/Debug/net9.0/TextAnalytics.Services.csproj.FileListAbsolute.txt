@@ -1,0 +1,13 @@
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\bin\Debug\net9.0\TextAnalytics.Services.deps.json
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\bin\Debug\net9.0\TextAnalytics.Services.dll
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\bin\Debug\net9.0\TextAnalytics.Services.pdb
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.AssemblyInfoInputs.cache
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.AssemblyInfo.cs
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.csproj.CoreCompileInputs.cache
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.sourcelink.json
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.dll
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\refint\TextAnalytics.Services.dll
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.pdb
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\ref\TextAnalytics.Services.dll
+C:\Users\micha\RiderProjects\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Services\obj\Debug\net9.0\TextAnalytics.Services.csproj.AssemblyReference.cache
